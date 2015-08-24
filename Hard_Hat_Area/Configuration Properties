@@ -27,5 +27,14 @@
       <count>0</count>
       <ALLOW__NULL__PASSWORD__VALUES>true</ALLOW__NULL__PASSWORD__VALUES>
     </com.approuter.studio.configprops.ConfigurationProperty>
+    <com.approuter.studio.configprops.ConfigurationProperty>
+      <name>LocalHttpUrl</name>
+      <value>runMe</value>
+      <type>String</type>
+      <hidden>false</hidden>
+      <internal>false</internal>
+      <count>0</count>
+      <ALLOW__NULL__PASSWORD__VALUES>true</ALLOW__NULL__PASSWORD__VALUES>
+    </com.approuter.studio.configprops.ConfigurationProperty>
   </propertyList>
 </com.approuter.studio.configprops.ConfigurationPropertyList>
