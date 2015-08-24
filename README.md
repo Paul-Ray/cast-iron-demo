@@ -1,2 +1,2 @@
 # cast-iron-demo
-Hard hat area
+Hard hat area.
