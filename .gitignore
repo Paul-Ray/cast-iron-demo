@@ -1,0 +1,2 @@
+    # ignore .par deployment files
+    *.par
