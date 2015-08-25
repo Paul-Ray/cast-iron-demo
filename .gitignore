@@ -1,2 +1,0 @@
-    # ignore .par deployment files in all project folders
-    **/*.par
