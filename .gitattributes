@@ -1,2 +1,2 @@
-# Prevent all files from running through normalization (CRLF to LF)
+# Prevent all files from running through line ending normalization (CRLF to LF)
 *       -text
