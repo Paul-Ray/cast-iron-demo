@@ -6,6 +6,10 @@
         <string></string>
       </entry>
       <entry>
+        <string>http_ep_annlogin</string>
+        <boolean>true</boolean>
+      </entry>
+      <entry>
         <string>http_ep_host</string>
         <com.approuter.studio.configprops.ConfigurationProperty>
           <name>GitHost</name>
@@ -18,20 +22,16 @@
         </com.approuter.studio.configprops.ConfigurationProperty>
       </entry>
       <entry>
-        <string>http_ep_annlogin</string>
-        <boolean>true</boolean>
-      </entry>
-      <entry>
         <string>proxyPort</string>
         <string></string>
       </entry>
       <entry>
-        <string>useCertificate</string>
-        <boolean>false</boolean>
-      </entry>
-      <entry>
         <string>proxyAuthType</string>
         <string>Basic</string>
+      </entry>
+      <entry>
+        <string>useCertificate</string>
+        <boolean>false</boolean>
       </entry>
       <entry>
         <string>maxConnections</string>
@@ -54,6 +54,10 @@
         <boolean>false</boolean>
       </entry>
       <entry>
+        <string>runInCloudReceive</string>
+        <boolean>false</boolean>
+      </entry>
+      <entry>
         <string>http_ep_port</string>
         <com.approuter.studio.configprops.ConfigurationProperty>
           <name>GitPort</name>
@@ -64,10 +68,6 @@
           <count>0</count>
           <ALLOW__NULL__PASSWORD__VALUES>true</ALLOW__NULL__PASSWORD__VALUES>
         </com.approuter.studio.configprops.ConfigurationProperty>
-      </entry>
-      <entry>
-        <string>runInCloudReceive</string>
-        <boolean>false</boolean>
       </entry>
       <entry>
         <string>flavor</string>

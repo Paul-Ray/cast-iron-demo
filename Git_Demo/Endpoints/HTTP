@@ -6,24 +6,24 @@
         <string></string>
       </entry>
       <entry>
-        <string>http_ep_host</string>
-        <string></string>
-      </entry>
-      <entry>
         <string>http_ep_annlogin</string>
         <boolean>true</boolean>
+      </entry>
+      <entry>
+        <string>http_ep_host</string>
+        <string></string>
       </entry>
       <entry>
         <string>proxyPort</string>
         <string></string>
       </entry>
       <entry>
-        <string>useCertificate</string>
-        <boolean>false</boolean>
-      </entry>
-      <entry>
         <string>proxyAuthType</string>
         <string>Basic</string>
+      </entry>
+      <entry>
+        <string>useCertificate</string>
+        <boolean>false</boolean>
       </entry>
       <entry>
         <string>maxConnections</string>
@@ -46,12 +46,12 @@
         <boolean>false</boolean>
       </entry>
       <entry>
-        <string>http_ep_port</string>
-        <string>80</string>
-      </entry>
-      <entry>
         <string>runInCloudReceive</string>
         <boolean>false</boolean>
+      </entry>
+      <entry>
+        <string>http_ep_port</string>
+        <string>80</string>
       </entry>
       <entry>
         <string>flavor</string>
